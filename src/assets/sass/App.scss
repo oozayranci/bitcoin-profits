@@ -1,0 +1,48 @@
+@import "_variables";
+@import "_reset";
+@import "_grid";
+@import "_home";
+@import "results";
+@import "_datepicker.scss";
+
+body {
+    background-color: #e6e6ff;
+}
+
+header{
+   padding: 15px 25px;
+   overflow: auto;
+
+    .logo{
+        display: inline-block;
+        float: left;
+        color: #4d4dff;
+    }
+
+    .menu{
+    
+        display: inline-block;
+        float: right;
+    }
+
+    .reg-link {
+        
+        color: #4d4dff;
+                text-decoration: none;
+                display: inline-block;
+                padding: 10px 20px;
+                border-radius: 3px;
+                border: 1px solid #304ffe;
+                transition: all .3s ease-in-out;
+                &:hover {
+            
+                color: white;
+                background-color: #304ffe;
+                opacity: 0.9;
+                 
+                
+             }
+      }
+    
+}
+
