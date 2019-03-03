@@ -138,7 +138,7 @@ class App extends Component {
                
                </div>
                <nav className="menu">
-                <a href="#" className="reg-link">Register</a>
+                <a href="/" className="reg-link">Register</a>
                </nav>
            </header>
            
