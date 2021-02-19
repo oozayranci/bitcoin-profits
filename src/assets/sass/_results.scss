@@ -1,0 +1,51 @@
+#results {
+  text-align: center;
+
+  h1 {
+    font-size: 4rem;
+    font-weight: 100;
+    text-align: center;
+    color: #07d5fe;
+    margin: 30px 0;
+  }
+
+  h3 {
+    text-align: center;
+    font-size: 1.8rem;
+    color: #4d4dff;
+    margin-top: 50px;
+  }
+
+  h4 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: #4d4dff;
+  }
+
+  .a4s {
+    background-color: grey;
+    height: 90px;
+    width: 100%;
+    margin: 30px auto;
+  }
+
+  .btn-acc {
+    margin: 50px 0;
+    color: #4d4dff;
+            text-decoration: none;
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 3px;
+            border: 1px solid #304ffe;
+            transition: all .3s ease-in-out;
+            &:hover {
+        
+            color: white;
+            background-color: #304ffe;
+            opacity: 0.9;
+             
+            
+         }
+  }
+}
