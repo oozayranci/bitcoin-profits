@@ -7,5 +7,5 @@ npm install
 npm start
 
 
-- to compare currency in usd, used crypto-compare API:
+- to compare btc in usd, used crypto-compare API:
 https://min-api.cryptocompare.com/ 
