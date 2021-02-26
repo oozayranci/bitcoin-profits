@@ -7,5 +7,5 @@ npm install
 npm start
 
 
-- to compare currencies in usd, used crypto-compare API:
+- to compare currency in usd, used crypto-compare API:
 https://min-api.cryptocompare.com/ 
