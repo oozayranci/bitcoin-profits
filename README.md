@@ -1,4 +1,4 @@
-# calculate how much bitcoin profit you have in usd currenct with the current profit of btc.
+- calculate how much bitcoin profit you have in usd currency with the current profit of btc.
 
 - To run the application
 
