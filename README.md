@@ -9,3 +9,5 @@ npm start
 
 - to compare btc in usd, used crypto-compare API:
 https://min-api.cryptocompare.com/ 
+
+https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC&tsyms=BTC,USD,EUR&extraParams=bitcoin-profits
